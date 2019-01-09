@@ -53,6 +53,11 @@ html {
 
 }
 
+.dropdown {
+    width: 200px;
+    text-align: center;
+}
+
 #hello {
     margin: 0 auto;
     width:500px;
@@ -61,6 +66,11 @@ html {
     z-index: 1;
 }
 
+#entry-box {
+    float: right;
+    margin-top: 20%;
+    margin-right: 45%;
+}
 .full-body {
     width: 500px;
     margin: 0 auto;
